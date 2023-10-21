@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learning Fruit</string>
+    <string name="title_en">Learning Fruit</string>
+    <string name="title_ch">学习水果</string>
+    <string name="change_language">Change Language</string>
+
+</resources>
